@@ -1,0 +1,11 @@
+
+echo "Hello World"
+
+echo $BASH
+echo $BASH_Version
+echo $HOME
+echo $PWD
+
+name=Manish
+age=21
+echo The name is $name and age is $age
